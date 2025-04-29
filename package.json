@@ -16,12 +16,6 @@
     "render-build": "npm install && npm run build"
   },
   "devDependencies": {
-    "@types/bcryptjs": "^2.4.6",
-    "@types/cors": "^2.8.17",
-    "@types/express": "^5.0.1",
-    "@types/jsonwebtoken": "^9.0.9",
-    "@types/node": "^22.15.3",
-    "@types/uuid": "^10.0.0",
     "concurrently": "^8.2.2"
   },
   "dependencies": {
